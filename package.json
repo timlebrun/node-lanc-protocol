@@ -1,0 +1,14 @@
+{
+  "name": "node-lanc-protocol",
+  "version": "0.1.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "init": "tsc --init",
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "@types/node": "^14.11.8",
+    "typescript": "^4.0.3"
+  }
+}
